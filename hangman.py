@@ -3,7 +3,6 @@ Hangman Text-Based Game
 Kesiya Jacob
 """
 
-
 import time
 import random   # library that we use in order to choose random words from a list of words
 import string
